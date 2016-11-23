@@ -1,0 +1,6 @@
+[submodule "gbr.Frontend"]
+	path = gbr.Frontend
+	url = https://github.com/MikeJerred/gbr.Frontend.git
+[submodule "gbr.InProcess"]
+	path = gbr.InProcess
+	url = https://github.com/MikeJerred/gbr.InProcess.git
