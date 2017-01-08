@@ -4,3 +4,6 @@
 [submodule "gbr.InProcess"]
 	path = gbr.InProcess
 	url = https://github.com/MikeJerred/gbr.InProcess.git
+[submodule "gbr.Master"]
+	path = gbr.Master
+	url = https://github.com/MikeJerred/gbr.Master.git
