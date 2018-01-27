@@ -7,3 +7,6 @@
 [submodule "GWToolboxpp"]
 	path = GWToolboxpp
 	url = https://github.com/MikeJerred/GWToolboxpp.git
+[submodule "gbr.Tank"]
+	path = gbr.Tank
+	url = git@github.com:MikeJerred/gbr.Tank.git
